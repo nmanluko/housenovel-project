@@ -1,0 +1,130 @@
+[
+    {
+        "resident_full_name": "Abraham Mary T",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "2703 Lake of the Isles bou"
+    },
+    {
+        "resident_full_name": "Max",
+        "spouse_name": null,
+        "occupation": "agent",
+        "employer": "gnntrs",
+        "business_address": "614 Boston bik",
+        "home_address": "1807 3d"
+    },
+    {
+        "resident_full_name": "Roland R",
+        "spouse_name": null,
+        "occupation": "clerk",
+        "employer": null,
+        "business_address": "2541 Harriet av",
+        "home_address": null
+    },
+    {
+        "resident_full_name": "Harvey R",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": "J D Cleghorn & Co",
+        "business_address": null,
+        "home_address": "1025 Hennepin av"
+    },
+    {
+        "resident_full_name": "Sydney D",
+        "spouse_name": null,
+        "occupation": "pharmacist",
+        "employer": "B L Levy",
+        "business_address": null,
+        "home_address": "2541 Harriet av"
+    },
+    {
+        "resident_full_name": "Isaac Abrahams",
+        "spouse_name": null,
+        "occupation": "second hand goods",
+        "employer": null,
+        "business_address": "14 s 2d",
+        "home_address": "256 13th av"
+    },
+    {
+        "resident_full_name": "Abraham Abrahamsen",
+        "spouse_name": null,
+        "occupation": "laborer",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1510% s Ist"
+    },
+    {
+        "resident_full_name": "Adolph Abrahamson",
+        "spouse_name": null,
+        "occupation": "foreman",
+        "employer": null,
+        "business_address": null,
+        "home_address": "3017 '47th av 8s"
+    },
+    {
+        "resident_full_name": "Sophia Abraham",
+        "spouse_name": "Charles T",
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "1001 e Lake"
+    },
+    {
+        "resident_full_name": "Moses Abramowitz",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "418 6th av. n"
+    },
+    {
+        "resident_full_name": "Philip M Abramowitz",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": null,
+        "business_address": null,
+        "home_address": "418 6th av. n"
+    },
+    {
+        "resident_full_name": "Mary D Abrams",
+        "spouse_name": null,
+        "occupation": "smstrs",
+        "employer": null,
+        "business_address": null,
+        "home_address": "2629 3d av s"
+    },
+    {
+        "resident_full_name": "Oscar Achard",
+        "spouse_name": null,
+        "occupation": "finisher",
+        "employer": "L Paulle",
+        "business_address": "3020",
+        "home_address": null
+    },
+    {
+        "resident_full_name": "Louis Achenbach",
+        "spouse_name": null,
+        "occupation": "pastor",
+        "employer": "Immanuel Lutheran church",
+        "business_address": null,
+        "home_address": "609 18th"
+    },
+    {
+        "resident_full_name": "Blanche Acker",
+        "spouse_name": null,
+        "occupation": "waiter",
+        "employer": null,
+        "business_address": null,
+        "home_address": "516 2d avs"
+    },
+    {
+        "resident_full_name": "Frank Acker",
+        "spouse_name": null,
+        "occupation": "clerk",
+        "employer": "GN Ry",
+        "business_address": null,
+        "home_address": "2322 Logan av n"
+    }
+]

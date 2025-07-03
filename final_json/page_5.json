@@ -1,0 +1,380 @@
+[
+    {
+        "resident_full_name": "Aabel Christian C",
+        "spouse_name": null,
+        "occupation": "porter",
+        "employer": "Geo R Newell & Co",
+        "business_address": "1329 Irving av n"
+    },
+    {
+        "resident_full_name": "Aaberg Arne",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": "2507 Riverside av"
+    },
+    {
+        "resident_full_name": "Arne O",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "U of M",
+        "business_address": "1600 s e 4th"
+    },
+    {
+        "resident_full_name": "Melkior K",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "U GC Sem",
+        "business_address": "rms. #01 Butler pl"
+    },
+    {
+        "resident_full_name": "Aaby Aslak A",
+        "spouse_name": null,
+        "occupation": "millwright",
+        "employer": null,
+        "business_address": "1810 s 5th"
+    },
+    {
+        "resident_full_name": "Caroline Aaby",
+        "spouse_name": null,
+        "occupation": "smstrs",
+        "employer": null,
+        "business_address": "110 University ay"
+    },
+    {
+        "resident_full_name": "Henry C",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": "TCR T Co",
+        "business_address": "110 University av"
+    },
+    {
+        "resident_full_name": "Louis C",
+        "spouse_name": null,
+        "occupation": "cond",
+        "employer": "TCR T Co",
+        "business_address": "110 University av ne"
+    },
+    {
+        "resident_full_name": "Bisie K",
+        "spouse_name": "wid Rasmus N",
+        "occupation": null,
+        "employer": null,
+        "business_address": "a @ 18th"
+    },
+    {
+        "resident_full_name": "George",
+        "spouse_name": null,
+        "occupation": "cutter",
+        "employer": "Yerxa Bros & Co",
+        "business_address": "1581 e 1"
+    },
+    {
+        "resident_full_name": "Foster & Waldo",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": "4522"
+    },
+    {
+        "resident_full_name": "Aage Hannah M",
+        "spouse_name": null,
+        "occupation": "nurse",
+        "employer": null,
+        "business_address": "604 20th av s"
+    },
+    {
+        "resident_full_name": "Aahjem Bert O",
+        "spouse_name": null,
+        "occupation": "waiter",
+        "employer": null,
+        "business_address": "108 Washn.av s"
+    },
+    {
+        "resident_full_name": "Aaker Christopher L",
+        "spouse_name": null,
+        "occupation": "milk and butter store owner",
+        "employer": null,
+        "business_address": "1318 s 4th"
+    },
+    {
+        "resident_full_name": "Iver L Aaker",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": "Aaker & Co",
+        "business_address": null
+    },
+    {
+        "resident_full_name": "Aargaard Bernhardt A",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null
+    },
+    {
+        "resident_full_name": "Biza S",
+        "spouse_name": null,
+        "occupation": "painter",
+        "employer": null,
+        "business_address": "2915 Clinton av"
+    },
+    {
+        "resident_full_name": "Ernest",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": "1815 17th"
+    },
+    {
+        "resident_full_name": "Aalbu Anna B",
+        "spouse_name": null,
+        "occupation": "stenogr",
+        "employer": "Mpls Brew Co",
+        "business_address": "242 20th ay n"
+    },
+    {
+        "resident_full_name": "Oscar S",
+        "spouse_name": null,
+        "occupation": "bartndr",
+        "employer": null,
+        "business_address": "242 20th avn"
+    },
+    {
+        "resident_full_name": "Aalund Christen",
+        "spouse_name": null,
+        "occupation": "bottler",
+        "employer": "Jos Schlitz Brew Co",
+        "business_address": "604 20th av s"
+    },
+    {
+        "resident_full_name": "Dorothea H",
+        "spouse_name": null,
+        "occupation": "tchr",
+        "employer": "Longfellow School",
+        "business_address": "604 20th av s"
+    },
+    {
+        "resident_full_name": "Aamoét Alfred",
+        "spouse_name": null,
+        "occupation": "clk",
+        "employer": "M H Aamodt",
+        "business_address": "1015 Talmadge avs e"
+    },
+    {
+        "resident_full_name": "Anna S",
+        "spouse_name": null,
+        "occupation": "smstrs",
+        "employer": "Tucker & Savage",
+        "business_address": "923 14th av se"
+    },
+    {
+        "resident_full_name": "John",
+        "spouse_name": null,
+        "occupation": "clk",
+        "employer": "S E Olson: Co",
+        "business_address": "928 14th av se"
+    },
+    {
+        "resident_full_name": "Martin H",
+        "spouse_name": null,
+        "occupation": "shoes",
+        "employer": null,
+        "business_address": "331 Central av"
+    },
+    {
+        "resident_full_name": "Nels C",
+        "spouse_name": null,
+        "occupation": "foreman",
+        "employer": "Larson & Nelander",
+        "business_address": "1082 'Vith av se"
+    },
+    {
+        "resident_full_name": "Sarah",
+        "spouse_name": "wid Nels C",
+        "occupation": null,
+        "employer": null,
+        "business_address": "2014 poth av s"
+    },
+    {
+        "resident_full_name": "Aram John",
+        "spouse_name": null,
+        "occupation": "lab",
+        "employer": null,
+        "business_address": "b 2430 1"
+    },
+    {
+        "resident_full_name": "Bernhart J",
+        "spouse_name": null,
+        "occupation": "elk",
+        "employer": "Brown Bros Mer Co",
+        "business_address": "b 2406 Riverside av"
+    },
+    {
+        "resident_full_name": "Aarness C Adolph",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "U of M",
+        "business_address": "b 519 16th av s e"
+    },
+    {
+        "resident_full_name": "Aaronson Charles J",
+        "spouse_name": null,
+        "occupation": "lab",
+        "employer": null,
+        "business_address": "rms 521 12th av 6"
+    },
+    {
+        "resident_full_name": "Aarseth",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null
+    },
+    {
+        "resident_full_name": "Rey K",
+        "spouse_name": null,
+        "occupation": "stage mech",
+        "employer": "Metropolitan theatre",
+        "business_address": "rms 26 s 6th"
+    },
+    {
+        "resident_full_name": "Aarsted",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null
+    },
+    {
+        "resident_full_name": "Aarvold John A",
+        "spouse_name": null,
+        "occupation": "lab",
+        "employer": "C M & St P Ry shops",
+        "business_address": "r 3232 Longfellow ay"
+    },
+    {
+        "resident_full_name": "Gina",
+        "spouse_name": null,
+        "occupation": "ironer",
+        "employer": "Franklin Steam Laundry",
+        "business_address": "b 1927 14th av s"
+    },
+    {
+        "resident_full_name": "Aase Elling",
+        "spouse_name": null,
+        "occupation": "tailor",
+        "employer": null,
+        "business_address": "103 s 5th"
+    },
+    {
+        "resident_full_name": "George Aase",
+        "spouse_name": null,
+        "occupation": "nurse",
+        "employer": null,
+        "business_address": "2200-3 Th"
+    },
+    {
+        "resident_full_name": "Aasen Alfred",
+        "spouse_name": null,
+        "occupation": "painter",
+        "employer": null,
+        "business_address": "b 3900 19th av s"
+    },
+    {
+        "resident_full_name": "Anne Aasen",
+        "spouse_name": "wid Christian",
+        "occupation": null,
+        "employer": null,
+        "business_address": "r 3200 19th av s"
+    },
+    {
+        "resident_full_name": "John O Aasen",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "Augsburg Sem",
+        "business_address": "b same"
+    },
+    {
+        "resident_full_name": "Olaus A Aasen",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "Augsburg Sem",
+        "business_address": "b same"
+    },
+    {
+        "resident_full_name": "Aasgaard Christian",
+        "spouse_name": null,
+        "occupation": "policeman",
+        "employer": null,
+        "business_address": null
+    },
+    {
+        "resident_full_name": "John A",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "U c Sem",
+        "business_address": "rms 804 22d av s"
+    },
+    {
+        "resident_full_name": "Abar",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": null,
+        "business_address": null
+    },
+    {
+        "resident_full_name": "David Abar",
+        "spouse_name": null,
+        "occupation": "painter",
+        "employer": null,
+        "business_address": "r Robbinsdale"
+    },
+    {
+        "resident_full_name": "John B Abar",
+        "spouse_name": null,
+        "occupation": "blksmith",
+        "employer": "Bovey-DeLalttre Lbr Co",
+        "business_address": "r 2908 Colfax av n"
+    },
+    {
+        "resident_full_name": "Madeline Abar",
+        "spouse_name": "wid David",
+        "occupation": null,
+        "employer": null,
+        "business_address": "b Colfax av cor: 40th av"
+    },
+    {
+        "resident_full_name": "Walter Abar",
+        "spouse_name": null,
+        "occupation": "lab",
+        "employer": null,
+        "business_address": "b 225 28th avin"
+    },
+    {
+        "resident_full_name": "Abaud Joseph",
+        "spouse_name": null,
+        "occupation": "peddler",
+        "employer": null,
+        "business_address": "rms 307 n e Main"
+    },
+    {
+        "resident_full_name": "Abbaticchio Edward J",
+        "spouse_name": null,
+        "occupation": "ball player",
+        "employer": null,
+        "business_address": "b 320 Nicollet av"
+    },
+    {
+        "resident_full_name": "Abbato Rocco",
+        "spouse_name": null,
+        "occupation": "musician",
+        "employer": null,
+        "business_address": "r 56 Central ay"
+    },
+    {
+        "resident_full_name": "Abbett Edward A",
+        "spouse_name": null,
+        "occupation": null,
+        "employer": "Co-Op Lary",
+        "business_address": "2921 Clinton av"
+    }
+]
